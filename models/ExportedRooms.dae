@@ -11,7 +11,7 @@
   </asset>
   <library_images>
     <image id="ExportedRooms-image" name="ExportedRooms-image">
-      <init_from>file:///materials/ExportedRooms.png</init_from>
+      <init_from>materials/ExportedRooms.png</init_from>
     </image>
   </library_images>
   <library_materials>
